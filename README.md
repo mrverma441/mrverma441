@@ -8,7 +8,7 @@
 - 💬 Ask me about java,jdbc,spring core,spring jdbc,spring mvc.
 - 📫 How to reach me:Instagram: https://instagram.com/mrverma6612
 - 😄 Pronouns:He/His
-- ⚡ Fun fact:Cricket Lover.
+- ⚡ Fun fact:Cricket Lover 🏏 & gymming 🏋️‍♂️
 - <img src="https://github-readme-stats.vercel.app/api?username=mrverma441&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 - <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrverma441&theme=black-ice&hide_border=true">
 - <img src="https://activity-graph.herokuapp.com/graph?username=mrverma441&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true">
