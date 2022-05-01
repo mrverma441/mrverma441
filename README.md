@@ -1,5 +1,4 @@
 ### Hello I am Monu Verma👋
-
 - 🔭 I’m currently working on AWS.
 - 🌱 I’m currently learning Spring.
 - 👯 I’m looking to collaborate on github.
