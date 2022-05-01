@@ -3,9 +3,9 @@
 - <h2>🙋‍♂️ About Me</h2>
 - 🔭 I’m currently working on AWS.
 - 🌱 I’m currently learning Spring.
-- 👯 I’m looking to collaborate on github.
-- 🤔 I’m looking for help with documentation.
-- 💬 Ask me about java.
+- 👯 I’m looking to collaborate on open source contribution.
+- 🤔 I’m looking for help with stack overflow.
+- 💬 Ask me about java,jdbc,spring core,spring jdbc,spring mvc.
 - 📫 How to reach me:Instagram: https://instagram.com/mrverma6612
 - 😄 Pronouns:He/His
 - ⚡ Fun fact:Cricket Lover.
