@@ -10,8 +10,35 @@
 - 📫 How to reach me:Instagram: https://instagram.com/mrverma6612
 - 😄 Pronouns:He/His
 - ⚡ Fun fact:Cricket Lover 🏏 & gymming 🏋️‍♂️
-- <h2>Find me on Coding Platforms:</h2><a href="https://leetcode.com/profile/account/"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/leetcode.svg"></a>--<a href="https://www.hackerrank.com/monuv6342"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/hackerrank.svg"></a>--<a href="https://auth.geeksforgeeks.org/user/monuv6342/profile"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/geeekforgeeks.svg"></a>
+- <h2>Find me on Coding Platforms:</h2><a href="https://leetcode.com/profile/account/"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/leetcode.svg"></a><span> </span><a href="https://www.hackerrank.com/monuv6342"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/hackerrank.svg"></a><span> </span><a href="https://auth.geeksforgeeks.org/user/monuv6342/profile"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/geeekforgeeks.svg"></a>
 - <H2>Skills 💡:</h2>
+- <table>
+  <tr>
+    <td><h3>Programming language</h3></td>
+    <td><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/clang.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/cpp.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/python.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/java.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/javascript.svg"></td>
+  </tr>
+   <tr>
+     <td><h3>Front-end Development</h3></td>
+    <td><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/css3.svg"><span> </span>
+     <img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/html5.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/react.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/javascript.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/bootstrap.svg"><span> </span></td>
+  </tr>
+  <tr>
+    <td><h3>Back-end Development & database</h3></td>
+    <td><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/express.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/mongodb.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/nodejs.svg"><span> </span></td>
+  </tr>
+  <tr>
+    <td><h3>Tools</h3></td>
+    <td><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/sublime.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/github.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/git.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/postman.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/eclipse.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/vscode.svg"><span> </span></td>
+  </tr>
+  <tr>
+    <td><h3>Machine Learning</h3></td>
+    <td><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/numpy.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/pandas.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/tensorflow.svg"><span> </span></td>
+  </tr>
+ 
+  </table>
+  
+  
+   
 
 - <img src="https://github-readme-stats.vercel.app/api?username=mrverma441&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 - <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrverma441&theme=black-ice&hide_border=true">
