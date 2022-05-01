@@ -1,18 +1,18 @@
-- <img src="https://avatars.githubusercontent.com/u/67165121?s=400&u=d5da3588ed058532293dcd50f9123ac77f1ce930&v=4">
+ <img src="https://avatars.githubusercontent.com/u/67165121?s=400&u=d5da3588ed058532293dcd50f9123ac77f1ce930&v=4"><br>
 - <H1 align="center">Hi,👋 I am Monu Verma</H1>
 - <h3>A Passionate Java Developer from India</h3>
 - <h2>🙋‍♂️ About Me</h2>
-- 🔭 I’m currently working on AWS.
-- 🌱 I’m currently learning Spring.
-- 👯 I’m looking to collaborate on open source contribution.
-- 🤔 I’m looking for help with stack overflow.
-- 💬 Ask me about java,jdbc,spring core,spring jdbc,spring mvc.
-- 📫 How to reach me:Instagram: https://instagram.com/mrverma6612
-- 😄 Pronouns:He/His
-- ⚡ Fun fact:Cricket Lover 🏏 & gymming 🏋️‍♂️
-- <h2>Find me on Coding Platforms:</h2><a href="https://leetcode.com/profile/account/"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/leetcode.svg"></a><span> </span><a href="https://www.hackerrank.com/monuv6342"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/hackerrank.svg"></a><span> </span><a href="https://auth.geeksforgeeks.org/user/monuv6342/profile"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/geeekforgeeks.svg"></a>
-- <H2>Skills 💡:</h2>
-- <table>
+- 🔭 I’m currently working on AWS.</br>
+- 🌱 I’m currently learning Spring.<br>
+- 👯 I’m looking to collaborate on open source contribution.</br>
+- 🤔 I’m looking for help with stack overflow.</br>
+- 💬 Ask me about java,jdbc,spring core,spring jdbc,spring mvc.</br>
+- 📫 How to reach me:Instagram: https://instagram.com/mrverma6612</br>
+- 😄 Pronouns:He/His</br>
+- ⚡ Fun fact:Cricket Lover 🏏 & gymming 🏋️‍♂️</br>
+<h2>Find me on Coding Platforms:</h2><a href="https://leetcode.com/profile/account/"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/leetcode.svg"></a><span> </span><a href="https://www.hackerrank.com/monuv6342"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/hackerrank.svg"></a><span> </span><a href="https://auth.geeksforgeeks.org/user/monuv6342/profile"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/geeekforgeeks.svg"></a>
+ <H2>Skills 💡:</h2>
+<table>
   <tr>
     <td><h3>Programming language</h3></td>
     <td><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/clang.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/cpp.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/python.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/java.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/javascript.svg"></td>
@@ -37,17 +37,17 @@
  
   </table>
   
-- <h2>📠 My Github Stats:</h2>
+<h2>📠 My Github Stats:</h2>
    
 
-- <img src="https://github-readme-stats.vercel.app/api?username=mrverma441&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-- <img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/4.svg">
-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrverma441&theme=black-ice&hide_border=true">
-- <img src="https://activity-graph.herokuapp.com/graph?username=mrverma441&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true">
-- <h2>Connect With Me</H2><a href="https://instagram.com/mrverma6612"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/icons8-instagram-48.png"></a><a href="https://www.facebook.com/profile.php?id=100033971151138"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/icons8-facebook-48.png"></a><a href="https://www.linkedin.com/in/monu-verma-8964161a3/"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/icons8-linkedin-circled-48.png"></a><a href="https://instagram.com/mrverma6612"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/icons8-twitter-48.png"></a>
-- <h2> ❤️Views And Followers</h2>
-- <img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/pv.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/followers.svg">
-- <h2>Support:</h2><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/buy.svg">
+<img src="https://github-readme-stats.vercel.app/api?username=mrverma441&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/4.svg">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrverma441&theme=black-ice&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=mrverma441&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true">
+<h2>Connect With Me</H2><a href="https://instagram.com/mrverma6612"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/icons8-instagram-48.png"></a><a href="https://www.facebook.com/profile.php?id=100033971151138"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/icons8-facebook-48.png"></a><a href="https://www.linkedin.com/in/monu-verma-8964161a3/"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/icons8-linkedin-circled-48.png"></a><a href="https://instagram.com/mrverma6612"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/icons8-twitter-48.png"></a>
+<h2> ❤️Views And Followers</h2>
+ <img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/pv.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/followers.svg">
+<h2>Support:</h2><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/buy.svg">
 
 
 
