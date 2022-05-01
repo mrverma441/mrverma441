@@ -37,13 +37,17 @@
  
   </table>
   
-  
+- <h2>📠 My Github Stats:</h2>
    
 
 - <img src="https://github-readme-stats.vercel.app/api?username=mrverma441&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+- <img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/4.svg">
 - <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrverma441&theme=black-ice&hide_border=true">
 - <img src="https://activity-graph.herokuapp.com/graph?username=mrverma441&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true">
 - <h2>Connect With Me</H2><a href="https://instagram.com/mrverma6612"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/icons8-instagram-48.png"></a><a href="https://www.facebook.com/profile.php?id=100033971151138"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/icons8-facebook-48.png"></a><a href="https://www.linkedin.com/in/monu-verma-8964161a3/"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/icons8-linkedin-circled-48.png"></a><a href="https://instagram.com/mrverma6612"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/icons8-twitter-48.png"></a>
+- <h2> ❤️Views And Followers</h2>
+- <img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/pv.svg"><span> </span><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/followers.svg">
+- <h2>Support:</h2><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/buy.svg">
 
 
 
