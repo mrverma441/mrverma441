@@ -14,6 +14,9 @@
 - <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrverma441&theme=black-ice&hide_border=true">
 - <img src="https://activity-graph.herokuapp.com/graph?username=mrverma441&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true">
 - <h2>Connect With Me</H2>
-- <a href="https://instagram.com/mrverma6612">📫</a>
+- <a href="https://instagram.com/mrverma6612"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/icons8-instagram-48.png"></a><a href="https://instagram.com/mrverma6612"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/icons8-instagram-48.png"></a><a href="https://instagram.com/mrverma6612"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/icons8-instagram-48.png"></a><a href="https://instagram.com/mrverma6612"><img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/icons8-instagram-48.png"></a>
+
+
+
 
 
