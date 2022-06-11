@@ -1,4 +1,4 @@
- <img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/E1.jpeg" align="right"><br>
+ <img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/E2.jpeg" align="right"><br>
 - <H1 align="center">Hi,👋 I am Monu Verma</H1>
 - <h3>A Passionate Java Developer from India</h3>
 - <h2>🙋‍♂️ About Me</h2>
