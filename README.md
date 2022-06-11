@@ -1,6 +1,7 @@
 - <H1 align="center">Hi,👋 I am Monu Verma</H1>
+-  <img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/E2.jpeg" align="right"><br>
+
 - <h3>A Passionate Java Developer from India</h3>
- <img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/E2.jpeg" align="right"><br>
 
 - <h2>🙋‍♂️ About Me</h2>
 - 🔭 I’m currently working on AWS.</br>
