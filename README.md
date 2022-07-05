@@ -1,8 +1,8 @@
- <p align="center">
-<a href="https://github.com/mrverma441/jewellery_data_recorder/blob/master/20220705_234547_0000.png"><img alt="" src="png_20220705_224129_0000.png" width="100%" height="100%" /></a>
-</p>
+ 
+<img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/20220705_234547_0000.png"><br>
+
  <H1 align="center">Hi,👋 I am Monu Verma</H1>
-<img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/E2.jpeg" align="right"><br>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - <h3>A Passionate Java Developer from India</h3>
 
