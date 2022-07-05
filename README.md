@@ -1,3 +1,6 @@
+ <p align="center">
+<a href="https://github.com/mrverma441/jewellery_data_recorder/blob/master/20220705_234547_0000.png"><img alt="" src="png_20220705_224129_0000.png" width="100%" height="100%" /></a>
+</p>
  <H1 align="center">Hi,👋 I am Monu Verma</H1>
 <img src="https://github.com/mrverma441/jewellery_data_recorder/blob/master/E2.jpeg" align="right"><br>
 
